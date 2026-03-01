@@ -5,7 +5,7 @@
   ],
   "routes": [
     { "src": "/kamil", "dest": "/kamil.js" },
-    { "src": "/azhar", "dest": "/azhar.js" },
+    { "src": "/kamilnz", "dest": "/kamilnz.js" },
     { "src": "/kamil nz2", "dest": "/kamil nz2.js" },
     { "src": "/Dilbar", "dest": "/Dilbar.js" },
     { "src": "/rizwan", "dest": "/rizwan.js" },
